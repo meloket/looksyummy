@@ -1,0 +1,18 @@
+
+[2020-07-18 19:11:01] local.INFO: array (
+  'posted_by' => '117',
+  'restaurant_id' => '338',
+  'description' => 'Test',
+  'restaurant_name' => NULL,
+  'title' => 'Test',
+  'category_id' => '2',
+  'image' => 
+  Illuminate\Http\UploadedFile::__set_state(array(
+     'test' => false,
+     'originalName' => 'image.png',
+     'mimeType' => 'image/png',
+     'size' => 21421,
+     'error' => 0,
+     'hashName' => NULL,
+  )),
+)  

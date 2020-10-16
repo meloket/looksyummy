@@ -1,0 +1,14 @@
+[Sun May 31 03:23:01.597593 2020] [ssl:warn] [pid 31699] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun May 31 03:23:01.598639 2020] [lbmethod_heartbeat:notice] [pid 31699] AH02282: No slotmem from mod_heartmonitor
+[Sun May 31 03:23:01.598694 2020] [http2:warn] [pid 31699] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Sun May 31 03:23:01.598783 2020] [mpm_prefork:notice] [pid 31699] AH00163: Apache/2.4.41 () OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Sun May 31 03:23:01.598789 2020] [core:notice] [pid 31699] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Jun 01 03:37:01.213566 2020] [mpm_prefork:notice] [pid 31699] AH00171: Graceful restart requested, doing restart
+[Mon Jun 01 03:37:01.255105 2020] [ssl:warn] [pid 31699] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jun 01 03:37:01.255570 2020] [lbmethod_heartbeat:notice] [pid 31699] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 01 03:37:01.255611 2020] [http2:warn] [pid 31699] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Mon Jun 01 03:37:01.255694 2020] [mpm_prefork:notice] [pid 31699] AH00163: Apache/2.4.41 () OpenSSL/1.0.2k-fips configured -- resuming normal operations
+[Mon Jun 01 03:37:01.255699 2020] [core:notice] [pid 31699] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Jun 03 21:47:46.909497 2020] [mpm_prefork:notice] [pid 31699] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Jun 04 03:39:16.982976 2020] [suexec:notice] [pid 18605] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00016: Configuration Failed
